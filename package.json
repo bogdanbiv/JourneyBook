@@ -1,0 +1,22 @@
+{
+  "name": "journey_book",
+  "version": "0.0.1",
+  "description": "Daily log of personal life events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"NOT_IMPLEMENTED\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogdanbiv/JourneyBook.git"
+  },
+  "keywords": [
+    "\"SelfManagement\""
+  ],
+  "author": "Bogdan Bivolaru <https://github.com/bogdanbiv>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bogdanbiv/JourneyBook/issues"
+  },
+  "homepage": "https://github.com/bogdanbiv/JourneyBook#readme"
+}
